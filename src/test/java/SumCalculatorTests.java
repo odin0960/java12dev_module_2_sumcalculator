@@ -21,15 +21,12 @@ class SumCalculatorTests {
 
     @Test
     void testForSums() {
-        Map<Integer, Integer> testedValues = new HashMap<>();
-        testedValues.put(1,1);
-        testedValues.put(3,6);
-        testedValues.put(5,15);
+        Map<Integer, Integer> testValues = new HashMap<>();
+        testValues.put(1, 1);
+        testValues.put(3, 6);
+        testValues.put(5, 15);
 
-        testedValues.forEach((n, expected) -> {
-            Assertions.assertEquals(expected, sum.sum(n));
-        });
-
+        testValues.forEach((n, expected) -> Assertions.assertEquals(expected, sum.sum(n)));
     }
 
     @Test

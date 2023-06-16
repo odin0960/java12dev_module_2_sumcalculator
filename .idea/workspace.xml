@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/javadev/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javadev/SumCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SumCalculatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumCalculatorTests.java" afterDir="false" />
     </list>
@@ -72,7 +67,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.SumCalculatorTests.testForSums">
+  <component name="RunManager" selected="Gradle.SumCalculatorTests">
     <configuration name="SumCalculatorTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -190,8 +185,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SumCalculatorTests.testForSums" />
         <item itemvalue="Gradle.SumCalculatorTests" />
+        <item itemvalue="Gradle.SumCalculatorTests.testForSums" />
         <item itemvalue="Gradle.SumCalculatorTests.testForSum" />
         <item itemvalue="Gradle.SumCalculatorTests.testThatSumFor0ThrowsIllegalArgumentException" />
         <item itemvalue="Gradle.SumCalculatorTests.testThatSumFor5IsEquals15" />
@@ -207,6 +202,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686853467680</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1686934337615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686934337615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

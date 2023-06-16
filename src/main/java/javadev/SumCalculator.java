@@ -2,18 +2,14 @@ package javadev;
 
 public class SumCalculator {
 
-public int sum(int n){
+    public int sum(int n) {
 
-    if (n <= 0){
-        throw new IllegalArgumentException("Please, input number > 0");
+        if (n <= 0) {
+            throw new IllegalArgumentException("Please, input number > 0");
+        }
+
+        if (n == 1) return 1;
+
+        return n + sum(n - 1);
     }
-
-    int result = 0;
-    for (int i = 1; i <= n; i++) {
-        result += i;
-    }
-
-    return result;
-}
-
 }
