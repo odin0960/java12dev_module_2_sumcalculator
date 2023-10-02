@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment="gradlew">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/newtest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/newtest2.yml" beforeDir="false" />
+    <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment=" Run chmod to make gradlew executable">
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696272029109</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=" Run chmod to make gradlew executable">
+      <option name="closed" value="true" />
+      <created>1696272859922</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696272859922</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +396,8 @@
     <MESSAGE value="fix gradlew" />
     <MESSAGE value="newtest build" />
     <MESSAGE value="gradlew" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradlew" />
+    <MESSAGE value=" Run chmod to make gradlew executable" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Run chmod to make gradlew executable" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SumCalculator$SumCalculatorTests.ic" NAME="SumCalculatorTests Coverage Results" MODIFIED="1686939117644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
