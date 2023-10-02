@@ -1,4 +1,4 @@
-name: Test code
+name: Check code
 
 on:
   push:
@@ -19,7 +19,16 @@ jobs:
         with:
           java-version: '17'
           distribution: 'temurin'
+
+      - uses: browser-actions/setup-chrome@latest
+      - run: chrome --version
+
       - name: Build with Gradle
-        uses: gradle/gradle-build-action@bd5760595778326ba7f1441bcf7e88b49de61a25 # v2.6.0
+        run: gradle clean test
+
+      - name: Archive Rest Results
+        uses: actions/upload-artifact@v3
+        if: success() || failure()
         with:
-          arguments: build
+          name: test-results
+          path: GradleReports/emailable-report.html
