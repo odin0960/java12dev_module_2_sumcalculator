@@ -21,4 +21,4 @@ jobs:
           distribution: 'temurin'
 
       - name: Test with Gradle
-        run: gradlew clean test
+        run: gradle clean test
