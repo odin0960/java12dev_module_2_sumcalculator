@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment="new yml">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/newtest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/newtest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/newtest2.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,12 +96,18 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/holge/Desktop/!!!TMP/GoIT/!!!JAVA Dev/java12dev_module_2_sumcalculator/.github/workflows",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\holge\Desktop\!!!TMP\GoIT\!!!JAVA Dev\java12dev_module_2_sumcalculator\.github\workflows" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.SumCalculatorTests">
     <configuration name="SumCalculatorTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -297,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696250215577</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new yml">
+      <option name="closed" value="true" />
+      <created>1696250537852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696250537852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
