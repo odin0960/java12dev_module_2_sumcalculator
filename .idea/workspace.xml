@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment="fix yml">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/newtest.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3db04380-181f-465d-a286-f7f0cff904f1" name="Changes" comment="new yml">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/newtest.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/newtest.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696249712195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new yml">
+      <option name="closed" value="true" />
+      <created>1696250215577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696250215577</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +329,8 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="fix yml &quot;main&quot;" />
     <MESSAGE value="fix yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix yml" />
+    <MESSAGE value="new yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="new yml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SumCalculator$SumCalculatorTests.ic" NAME="SumCalculatorTests Coverage Results" MODIFIED="1686939117644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
